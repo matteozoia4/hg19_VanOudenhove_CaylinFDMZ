@@ -1,0 +1,5 @@
+hub ChIPseq RNA-seq VanOudenhove Spurrell
+shortLabel VanOudenhove Spurrell
+longLabel ChIPseq RNA-seq VanOudenhove Spurrell
+genomesFile genomes.txt 
+email  matteo.zoia@dbmr.unibe.ch
